@@ -113,7 +113,7 @@
 ## 安装
 
 ```bash
-npx skills add [your-github-username]/maoxuan-skill
+npx skills add leezythu/maoxuan-skill
 ```
 
 然后在 Claude Code 里触发：

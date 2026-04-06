@@ -238,6 +238,12 @@ MIT — 随便用，随便改，随便造。
 
 ---
 
+## 致谢
+
+本项目受 [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) 启发——用深情祖师爷的思维框架分析人际关系，让我看到了"蒸馏一个人的认知框架"这条路的价值。同时感谢 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 提供的方法论框架。
+
+---
+
 &nbsp;
 
 **语录** 告诉你他说过什么。<br>

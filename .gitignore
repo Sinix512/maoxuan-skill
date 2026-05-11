@@ -1,4 +1,6 @@
+tools/__pycache__/
 .agents
 .claude
 answers/
 skills-lock.json
+data/
